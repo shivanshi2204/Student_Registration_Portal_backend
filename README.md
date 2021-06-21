@@ -22,7 +22,7 @@ Features of this app which were required in the assignment:
 3. Create a MongoDB database on your local machine and connect to the database 
    (eg: write C:/Users/Shivanshi/mongodb/bin/mongod.exe --dbpath="C:/Users/Shivanshi/mongodb-data" on your terminal, the path would change according to your system)
 4. Run the project using-- npm start
-5. You can check the APIs using Postman. Import "collections" on your Poatman and test the APIs
+5. You can check the APIs using Postman. Import "collections.json" file on your Postman and test the APIs
 
 Add route: localhost:3000/student
 Update route: localhost:3000/student/id
