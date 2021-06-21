@@ -1,6 +1,6 @@
 # Student_Registration_Portal_backend
 
-##Approach
+## Approach
 
 I have created a database using NoSQL. The keys used in the database are name of student, roll number, age, email ID, standard, contact number, address and gender. Then I worked on API's of backend to Create, Update, Read and Delete the data. For update and delete, id of the student to be changed is required.
 
@@ -15,7 +15,7 @@ Features of this app which were required in the assignment:
 
 **All Features and associated APIs are working fine!!**
 
-##Steps to deploy this Student Registration Application
+## Steps to deploy this Student Registration Application
 
 1. Git clone this repository in your local repository
 2. Install modules using-- npm install
