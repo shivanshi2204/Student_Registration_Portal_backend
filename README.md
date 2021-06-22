@@ -31,4 +31,12 @@ Delete route: localhost:3000/student/id
 Get by id: localhost:3000/student/id
 Sort: localhost:3000/student/sort/key (Students are sorted on the basis of Roll Number) 
 
+Adding a Student-
+![image](https://user-images.githubusercontent.com/56682838/122882472-db50fc80-d359-11eb-8b18-b7f4ee7142e2.png)
+
+Getting all Students-
+![image](https://user-images.githubusercontent.com/56682838/122882344-b2c90280-d359-11eb-96f4-bf48ac91d436.png)
+
+
+
 
