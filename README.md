@@ -25,10 +25,15 @@ Features of this app which were required in the assignment:
 5. You can check the APIs using Postman. Import "collections.json" file on your Postman and test the APIs
 
 Add route: localhost:3000/student
+
 Update route: localhost:3000/student/id
+
 Get all students: localhost:3000/students
+
 Delete route: localhost:3000/student/id
+
 Get by id: localhost:3000/student/id
+
 Sort: localhost:3000/student/sort/key (Students are sorted on the basis of Roll Number) 
 
 Adding a Student-
